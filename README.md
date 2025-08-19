@@ -16,6 +16,8 @@ Se diseñaron experimentos y segmentaciones para contrastar patrones entre clien
 
 Se aplicaron técnicas de visualización y análisis estadístico para extraer insights relevantes.
 
+Las librerías de las bibliotecas las iremos importanto una vez las vayamos necesitando.
+
 📌 Decisiones de estandarización
 Con el enfoque puesto en la claridad del reporte ejecutivo, se optó por mantener los valores categóricos como “Yes” y “No” en lugar de convertirlos a binarios (1 y 0), ya que el lenguaje natural resulta más intuitivo para los lectores no técnicos.
 
@@ -29,16 +31,28 @@ También se utilizó el idioma español para la creación de algunos marcos de d
 
 En el reporte, cada columna se menciona en negrita, seguida de su traducción al español y el nombre original entre paréntesis. 
 
+<img width="1024" height="1024" alt="Copilot_20250818_205135" src="https://github.com/user-attachments/assets/db1201ad-11e5-4ba3-9869-2ad25b24bf1e" />
+Estructura del Proyecto: 
+
+Extracción y Transformación de datos
+Exploración de datos
+Transformación de datos.
+Análisis Exploratorio y Visualización de Datos
+Ciclo de permanencia y Rentabilidad del cliente
+Servicios.
+Perfil del cliente.
+Puntos Clave: Interpretación y Representación de Datos
+Análisis de Correlación.
+
 📁 Entregables
 El informe ejecutivo con los hallazgos clave, se encuentran en el mismo notebook TelecomX_LATAM.ipynb, en donde podrás observar los gráficos junto con las interpretaciones y conclusiones.
 
-Para Ejecutar este Notebook haz lo siguiente que aparece en la foto: 
-
+Para Ejecutar este Notebook mira la siguiente foto: 
 
 <img width="1277" height="444" alt="image" src="https://github.com/user-attachments/assets/a22f437b-b8c1-4a91-8b34-d4eae6eb7528" />
+haz click en el archivo que está el circulo ovalado rojo. 
 
-
-Así inngresarás al cuaderno y podrás observar el trabajo completo en el notebook!
+Así ingresarás al cuaderno y podrás observar el trabajo completo en el notebook!
 
 🧠 Conclusión
 Este estudio no solo permitió comprender los factores que impulsan la cancelación de servicios, sino que también generó propuestas concretas para fortalecer la fidelización de clientes en un entorno altamente competitivo.
