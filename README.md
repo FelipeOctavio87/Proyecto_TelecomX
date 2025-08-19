@@ -43,9 +43,6 @@ Estructura del Proyecto:
 - Exploración de datos
 - Transformación de datos.
 - Análisis Exploratorio y Visualización de Datos
-- Ciclo de permanencia y Rentabilidad del cliente
-- Servicios.
-- Perfil del cliente.
 - Puntos Clave: Interpretación y Representación de Datos
 - Análisis de Correlación.
 
