@@ -25,10 +25,20 @@ La base de datos original está en inglés, lo que sugiere que la empresa opera 
 
 El inglés permite nombres más concisos, evitando términos largos o con acentos que podrían generar conflictos en entornos computacionales.
 
-En el reporte, cada columna se menciona en negrita, seguida de su traducción al español y el nombre original entre paréntesis. Ejemplo: Evasión (Churn) de clientes, Método de pago (PaymentMethod).
+También se utilizó el idioma español para la creación de algunos marcos de datos.
+
+En el reporte, cada columna se menciona en negrita, seguida de su traducción al español y el nombre original entre paréntesis. 
 
 📁 Entregables
-El informe ejecutivo con los hallazgos clave, visualizaciones y recomendaciones estratégicas se encuentra disponible en el directorio reports📂 del repositorio.
+El informe ejecutivo con los hallazgos clave, se encuentran en el mismo notebook TelecomX_LATAM.ipynb, en donde podrás observar los gráficos junto con las interpretaciones y conclusiones.
+
+Para Ejecutar este Notebook haz lo siguiente que aparece en la foto: 
+
+
+<img width="1277" height="444" alt="image" src="https://github.com/user-attachments/assets/a22f437b-b8c1-4a91-8b34-d4eae6eb7528" />
+
+
+Así inngresarás al cuaderno y podrás observar el trabajo completo en el notebook!
 
 🧠 Conclusión
 Este estudio no solo permitió comprender los factores que impulsan la cancelación de servicios, sino que también generó propuestas concretas para fortalecer la fidelización de clientes en un entorno altamente competitivo.
